@@ -1,0 +1,13 @@
+{
+    "name": "rapidjson",
+    "type": "library",
+    "onlyHeaders": true,
+    "version": "1.0.2",
+    "exports": {
+        "include": ["include"]
+    },
+    "code": {
+        "url": "https://github.com/miloyip/rapidjson",
+        "commit": "v1.0.2"
+    }
+}
